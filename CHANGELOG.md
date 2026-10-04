@@ -6,6 +6,8 @@ User-facing changes, fixes and implementation findings are recorded here. Add ch
 
 ### Added
 
+- Added an original, locally hosted ventilation hero illustration at the top of the README, following the welcoming presentation used by the F-LINX Garage integration. Kept the artwork free of product screenshots, account data and network identifiers.
+
 ### Documentation and findings
 
 - Made the README more welcoming with a concise introduction, installation and compatibility table, release/check badges and direct setup buttons. Added privacy-aware bug and feature forms, plus automatic HACS and hassfest validation with read-only permissions and no PR comments.

@@ -2,7 +2,9 @@
 
 **A little breeze. A lot more control.**
 
-Bring your S&P NARAH ventilation into Home Assistant: choose a speed, follow temperature and humidity, keep an eye on filters, and let your automations handle the routine. It works through your existing Connectair Wi-Fi connection.
+Bring your S&P NARAH ventilation into Home Assistant. Set the fan speed, keep an eye on temperature, humidity and filters, and let your automations take care of the daily routine.
+
+![Illustration of a calm, comfortable room with fresh air flowing from a wall-mounted ventilation unit](docs/images/connectair-hero.svg)
 
 [![HACS custom integration](https://img.shields.io/badge/HACS-Custom-41BDF5?logo=homeassistant&logoColor=white)](https://www.hacs.xyz/docs/faq/custom_repositories/)
 [![Latest release](https://img.shields.io/github/v/release/rubarksfield/home-assistant-connectair)](https://github.com/rubarksfield/home-assistant-connectair/releases/latest)
